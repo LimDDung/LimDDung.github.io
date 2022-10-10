@@ -1,0 +1,22 @@
+- layout: left
+  name: Backend
+  description: | # this will include new lines to allow paragraphs
+    * PHP
+    * Node.JS
+    * Python
+- layout: left
+  name: Database
+  description: | # this will include new lines to allow paragraphs
+    * MySQL, MariaDB, MongoDB
+- layout: left
+  name: Frontend
+  description: | # this will include new lines to allow paragraphs
+    * Javascript (ES6+) , Jquery
+    * HTML5, CSS3 , SCSS
+
+- layout: left
+  name: Tools
+  description: | # this will include new lines to allow paragraphs
+    * Git, GitHub
+    * VSCode , Zeplin , EditPlus
+    * Postman

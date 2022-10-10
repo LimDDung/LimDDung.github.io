@@ -1,0 +1,54 @@
+# Site
+repository: LimDDung/LimDDung.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: 임기현
+title: PHP 백엔드 개발자
+email: ykh931104@naver.com
+#website: ""
+
+# Social links
+# twitter_username: LimDDung
+github_username:  LimDDung
+# dribbble_username: jekyll
+#facebook_username: LimDDung
+# flickr_username: jekyll
+# linkedin_username: LimDDung
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  안녕하세요 PHP 백앤드 개발자 임기현 입니다.<br>
+  PHP & Python / JavaScript 기반의 5년차 백엔드 개발자로 개인이 하고 싶은 일 보다는 회사와 팀에 도움이 되는 개발자가 되고자 전문성을 강화하고 사람들의 삶에 더욱 편한 삶을 제공 하기 위해 최선을 다하는 임기현입니다.<br>
+  아직 배울 것이 많지만, 그만큼 더 성장할 수 있음에 감사합니다.
+  👊👊
+# Projects Section
+#projects_title: PROJECT
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+#more_content: | # this will include new lines to allow paragraphs
+
+  
+# Footer
+footer_show_references: true
+
+# Build settings
+#remote_theme: sproogen/resume-theme
+remote_theme: LimDDung/LimDDung.github.io
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
