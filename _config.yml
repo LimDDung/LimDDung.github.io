@@ -22,9 +22,13 @@ github_username:  LimDDung
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요 PHP 백앤드 개발자 임기현 입니다.<br>
-  PHP & Python / JavaScript 기반의 5년차 백엔드 개발자로 개인이 하고 싶은 일 보다는 회사와 팀에 도움이 되는 개발자가 되고자 전문성을 강화하고 사람들의 삶에 더욱 편한 삶을 제공 하기 위해 최선을 다하는 임기현입니다.<br>
-  아직 배울 것이 많지만, 그만큼 더 성장할 수 있음에 감사합니다.
+  안녕하세요 PHP 백앤드 개발자 임기현 입니다.
+
+  웹 서비스 백엔드/프론트엔드 개발에 있어서 다양한 경험이 있습니다. Node.js, PHP, MySQL, Javascript , Jquery, Git 등을 사용하여 프로덕션 서비스를 설계, 개발, 운영한 경험으로 확장성과 유지 보수성이 높은 백엔드 아키텍처와 패턴을 위해 언제나 고민하고 있습니다.
+
+  오픈소스 프로젝트에 관심이 많고, 다양한 방법으로 기여를 하려고 노력하고 있습니다. 언제나 백엔드 개발의 정상에 도달 하고 싶다고 생각 하며 , 항상 모든 상황에서 최선을 다하고 있습니다.
+
+  백엔드 개발이란 결국 개발과 소비자와의 커뮤니케이션이 가장 중요하다고 생각합니다. 진취적인 사고방식과 적극적인 문제해결 능력으로 더 좋은 개발자로 성장하기 위해 학습! 노력! 경혐! 을 게을리 하지 않겠습니다.
   👊👊
 # Projects Section
 #projects_title: PROJECT

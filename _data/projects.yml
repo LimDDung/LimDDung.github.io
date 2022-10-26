@@ -1,18 +1,18 @@
 - layout: left
-  name: CJ대한통운 물류박스 시스템
+  name: CJ대한통운 물류박스 시스템 
   link:  202110 ~ 202204
   quote: >
     
   description: | # this will include new lines to allow paragraphs
     * 물류박스 재고 관리 시스템 개발
-    * 사용자 사이트 구성  기획참여 및 시스템 개발 
-    * 관리자 기획참여 및 시스템 개발 
+    * 프론트엔드 기술환경 구성 및 기본 기능 구현
+    * 물류 백엔드 , 인프라 시스템 개발 
     * 물류박스 견적 문의 Batch 서비스 개발
-    * CJ올리브네트웍스 내부 재고 연동 API 개발
-    * PHP, MySQL , JavaScript , Jquery 등을 사용하여 서비스 개발
+    * CJ올리브네트웍스 내부 재고 연동 REST API 개발
+    * <mark>PHP</mark> <mark>MySQL</mark> <mark>JavaScript</mark> <mark>Jquery</mark> <mark>GIT</mark> <mark>GITHUB</mark>
 
 - layout: left
-  name: 아이기어몰 자사 솔루션 시스템 리뉴얼
+  name: 아이기어몰 백엔드/프론트엔드 서비스 개발
   link:
   quote: 
   description: | # this will include new lines to allow paragraphs
@@ -20,26 +20,27 @@
     * 백엔드/프론트엔드 서비스 개발
     * 솔루션 주요 기능인 제품등록/수정 , 주문관리 기능 개편
     * SlowQuery 튜닝
+    * 비효율적인 사용 로직 개선하여 트래픽 n% 감소
     * 레거시 코드 리팩토링 (모듈화)
-    * PHP, MySQL , JavaScript , Jquery 등을 사용하여 서비스 개발
+    * <mark>PHP</mark> <mark>MySQL</mark> <mark>JavaScript</mark> <mark>Jquery</mark> <mark>Css</mark> <mark>Scss</mark> <mark>Zeplin</mark>
 
 - layout: left
-  name: 보드엠 
-  link: https://boardm.co.kr
+  name: CURL MULTI 프로그래밍 다중 동시 결제 개발 
+  link: 
   quote: 
   description: | # this will include new lines to allow paragraphs
-    * PHP multi thread 기법을 이용한 다중 결제 시스템 개발
-    * 주문건 그룹별 매핑 기능 개발 
-    * PC/MOBILE 리뉴얼(UI/UX)
-    * PHP, MySQL , JavaScript , Jquery 등을 사용하여 서비스 개발
+    * curl multi 프로그래밍을 동시 결제 시스템 개발
+    * 기존 결제 소요 시간 대비 약 x% 감소 
+    * <mark>PHP</mark> <mark>MySQL</mark> <mark>JavaScript</mark> <mark>Jquery</mark> 
+
 
 - layout: left
-  name: 한타로 골프
-  link: https://hantaro.co.kr
+  name: 페이링크 임대 쇼핑몰 백엔드 개발 및 유지보수
+  link: http://www.o2ocommerce.kr
   quote: 
   description: | # this will include new lines to allow paragraphs
-    * PC/MOBILE 리뉴얼(UI/UX)
-    * E-commerce 연동(사방넷) 
-    * 검색 시스템 개편
-    * PHP, MySQL , JavaScript , Jquery 등을 사용하여 서비스 개발
-    
+    * 백엔드 PC/MOBILE UI/UX 개편
+    * 특정 ID 값으로 구분되는 임대몰 개발
+    * 자사 제품 , 주문등록  REST API 개발
+    * e-commerce 업체와 재고 연동 API 개발 
+    * <mark>PHP</mark> <mark>MySQL</mark> <mark>JavaScript</mark> <mark>Jquery</mark> <mark>Css</mark> <mark>Scss</mark> <mark>Zeplin</mark>
